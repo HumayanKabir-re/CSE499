@@ -1,0 +1,14 @@
+Place holder for future Dataset commits'
+
+26th June 2021- 
+
+Updated the BSL dataset with 10 images for each alphabet, for 37 alphabets in total.
+Uploaded the photos on the drive folder, as it is too large to be uploaded on GIT.
+Will expand the dataset further next week.
+
+Link to the dataset: https://drive.google.com/drive/u/0/folders/1wLkPK8dcoTQsnW-2aUB8PqC91xob-yIl?fbclid=IwAR3WPkeCy6Q3eJlxmXxUL03M9FNCce7GGBPmEm3iE5hM-0CHdSpWppRPuPo
+
+Did some research on published papers on similar projects. Will be updating on them soon. 
+Working on the project report.
+
+---------------------------------------------------------------
